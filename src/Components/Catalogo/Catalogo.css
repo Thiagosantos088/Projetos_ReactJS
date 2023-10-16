@@ -1,0 +1,6 @@
+.div-exibe{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+    
+}
